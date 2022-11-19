@@ -41,7 +41,7 @@ LATESTARTSERVICE=true
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "          Disable IPv6         "
+  ui_print "         Force enable IPv6         "
   ui_print "*******************************"
 }
 
