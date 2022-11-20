@@ -7,9 +7,9 @@ Force enable ipv6 for oos12&oos13。
 一加9Pro 升级oos12后,wifi的ipv6地址一段时间后丢失，降级oos11无该问题 ，提交bug无人理会，重启wifi正常获取v6地址，过一段时间继续丢失，该模块强制开启ipv6，试图解决该问题 .
 
 如图：使用模块前，开机后一段时间ipv6地址丢失
-![-1](https://user-images.githubusercontent.com/38988286/202887798-257e48db-d15b-4556-8124-ad3c9c472b3d.jpg)
 启用模块后，坚持一天没问题：
-![0](https://user-images.githubusercontent.com/38988286/202887938-26969307-9f09-442c-93e5-e8f44bd9a007.jpg)
+![1](https://user-images.githubusercontent.com/38988286/202888466-67abe8b0-00ba-4680-a478-8b5f9c23a2b9.jpg)
+
 
 为什么wifi会丢失ipv6地址呢，这里有一个老哥发的贴子说明：
 https://community.oneplus.com/thread/1580521
